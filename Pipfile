@@ -7,8 +7,10 @@ name = "pypi"
 jupyter = "*"
 numpy = "*"
 scipy = "*"
-jax = "*"
 matplotlib = "*"
+jax = {extras = ["cpu"], version = "*"}
+numpyro = "*"
+seaborn = "*"
 
 [dev-packages]
 
