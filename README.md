@@ -1,5 +1,12 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edmundlth/slt_alignment_workshop_2023_demo/main)
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edmundlth/slt_alignment_workshop_2023_demo/blob/main/rlct_estimation_demo.ipynb) -->
+Cloud options for running the notebooks: 
+ - Binder (for the entire repository): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edmundlth/slt_alignment_workshop_2023_demo/main)
+ - Colab: 
+   - `measuring-rlct-of-one-hidden-layer-tanh-model.ipynb`: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edmundlth/slt_alignment_workshop_2023_demo/blob/main/measuring-rlct-of-one-hidden-layer-tanh-model.ipynb)
+   - `intro_to_mcmc_in_SLT.ipynb`: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edmundlth/slt_alignment_workshop_2023_demo/blob/main/intro_to_mcmc_in_SLT.ipynb)
+   - `mcmc_in_toymodel.ipynb`: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edmundlth/slt_alignment_workshop_2023_demo/blob/main/mcmc_in_toymodel.ipynb)
+
+
+
 
 
 # slt_alignment_workshop_2023_demo
