@@ -1,4 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edmundlth/slt_alignment_workshop_2023_demo/main)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edmundlth/slt_alignment_workshop_2023_demo/blob/main/rlct_estimation_demo.ipynb)
+
 
 # slt_alignment_workshop_2023_demo
 Code and notebooks for demonstrating Singular Learning Theory related computational experiments. 
