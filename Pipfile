@@ -11,6 +11,9 @@ matplotlib = "*"
 jax = {extras = ["cpu"], version = "*"}
 numpyro = "*"
 seaborn = "*"
+scikit-learn = "*"
+scikit-learn-extra = "*"
+torch = "*"
 
 [dev-packages]
 
